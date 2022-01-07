@@ -2,7 +2,7 @@ window.onload = () => { //es6의 화살표함수
 
         document.getElementById('trigger').onclick = () =>{
 
-            guguDan(5);
+            guguDan(3);
         }
 
         function guguDan(num){
